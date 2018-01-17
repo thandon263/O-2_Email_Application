@@ -1,20 +1,18 @@
 # Application setup for the Client
 
----
+### Standard Setup
 
 * index.js
 
-- We have Redux dealing with the State of the Application
+  * We have Redux dealing with the State of the Application
 
 * App.js
 
-- We will use react-router to control the routing in the client.
+  * We will use react-router to control the routing in the client.
 
 ---
 
 ## Redux setup
-
----
 
 * Redux Store
 
