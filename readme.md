@@ -1,3 +1,5 @@
+https://travis-ci.org/thandon263/O-2_Email_Application.svg?branch=master
+
 # Application setup for the Client
 
 ### Standard Setup
