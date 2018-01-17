@@ -11,7 +11,7 @@ const styles = {
   span: {
     fontSize: 12,
     position: "relative",
-    top: 8
+    top: 5
   }
 };
 
